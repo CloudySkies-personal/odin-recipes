@@ -1,0 +1,28 @@
+.header {
+    color:aquamarine;
+}
+
+div{
+    background-color: brown;
+}
+
+img{
+    width: 310px;
+    height: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#greeting {
+    color: rgb(66, 66, 143);
+}
+
+.dish {
+    font-weight: bolder;
+    color: brown;
+}

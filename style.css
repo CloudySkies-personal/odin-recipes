@@ -1,28 +1,44 @@
-.header {
-    color:aquamarine;
+* { 
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    color: #3E362E;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
-div{
-    background-color: brown;
+body {
+    background-color: #A69080;
+    ;
 }
 
-img{
-    width: 310px;
-    height: auto;
+.landing {
+    margin-bottom: 25px;
+    background-color:  #93785B;
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.landing h1{
     text-align: center;
 }
 
-#greeting {
-    color: rgb(66, 66, 143);
+.landing #logo {
+    
+    width: 100%;
 }
 
-.dish {
-    font-weight: bolder;
-    color: brown;
+.greeting-section {
+    background-color: #865D36;
+    margin: 10px 25%;
+    text-align: center;
 }
+
+.greeting {
+    display: inline-block;
+    background-color: #93785B ;
+    padding: 5px;
+    margin-top:-14px;
+
+}
+
+

@@ -5,12 +5,10 @@
     border: 0px;
     color: #3E362E;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
 }
 
 body {
     background-color: #A69080;
-    ;
 }
 
 .landing {
@@ -23,13 +21,13 @@ body {
 }
 
 .landing #logo {
-    
     width: 100%;
 }
 
 .greeting-section {
     background-color: #865D36;
     margin: 10px 25%;
+    margin-bottom: 40px;
     text-align: center;
 }
 
@@ -37,8 +35,31 @@ body {
     display: inline-block;
     background-color: #93785B ;
     padding: 5px;
+    padding-top: 3px;
+    padding-right: 3px;
     margin-top:-14px;
-
+    border-left: #614930 solid;
+    border-bottom: #614930 solid;
 }
 
+#webs-desc {
+    padding: 10px;
+}
+
+#ingredients {
+    margin: auto;
+}
+
+#ing-section {
+    text-align: center;
+}
+
+.pannel{
+    display: inline-block;
+    padding: 10px;
+    border: 10px solid black;
+    width: 30%;
+    height: 0;
+    padding-bottom: 30%;
+}
 

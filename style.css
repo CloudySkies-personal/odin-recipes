@@ -56,10 +56,21 @@ body {
 
 .pannel{
     display: inline-block;
-    padding: 10px;
+    padding: 0px;
     border: 10px solid black;
     width: 30%;
-    height: 0;
-    padding-bottom: 30%;
+    height: auto;
+    background-color: white;
 }
 
+.inline {
+    display: inline;
+}
+
+
+.pannel .recipe-img{
+    margin: 10px auto;
+    display: block;
+    width: 290.188px;
+    height: 386.78px;
+}

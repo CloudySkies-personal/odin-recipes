@@ -117,3 +117,18 @@ li span {
 ol {
     width: 50%;
 }
+
+.flex-container {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+
+}
+
+.flex-container .Description {
+    max-width: 49%;
+}
+
+.flex-container .Ingredients {
+    max-width: 49%;
+}
